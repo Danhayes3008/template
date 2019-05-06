@@ -1,0 +1,9 @@
+body{
+    background-color: orange;
+}
+
+.bg{
+    background-color: red;
+    margin-left: 10%;
+    margin-right: 10%;
+}
